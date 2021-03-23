@@ -7,5 +7,6 @@ script:
   - pytest tests.py
 
 notifications:
-  email: alterjose10@gmail.com
-         ufrapl21@gmail.com
+  email:
+  - alterjose10@gmail.com
+  - ufrapl21@gmail.com
