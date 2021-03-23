@@ -1,0 +1,11 @@
+lenguage: python
+
+python:
+  - "3.9.2
+
+script:
+  - pytest tests.py
+
+notifications:
+  email: alterjose10@gmail.com
+  email: ufrapl21@gmail.com
